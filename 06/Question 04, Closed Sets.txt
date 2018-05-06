@@ -1,0 +1,14 @@
+1) 	A -> A
+	B -> B
+	C -> C
+	D -> D
+
+2) 	A -> ABCD
+	B -> ABCD
+	C -> ABCD
+	D -> ABCD
+
+3) 	A -> A
+	B -> B
+	C -> ABCD
+	D -> ABCD
